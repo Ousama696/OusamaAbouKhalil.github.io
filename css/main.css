@@ -1132,7 +1132,7 @@ header .logo a {
 
 /* is clicked */
 .menu-toggle.is-clicked span {
-	background-color: rgba(255, 0, 119, 0);
+	background-color:transparent;
 }
 .menu-toggle.is-clicked span::before, .menu-toggle.is-clicked span::after {
 	background-color: #ff0077;
